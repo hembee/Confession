@@ -182,9 +182,9 @@ body {
 body {
   --color-text: #252528;
   --color-bg: rgba(0,0,0,0.9);
-  --color-link: #b2b2b2;
+  --color-link: #fff;
   --color-link-hover: #252528;
-  --color-menu-text: rgb(182, 174, 174);
+  --color-menu-text: #fff;
   --color-bg-move: rgba(0,0,0,0.9);
   color: var(--color-text);
   background-color: var(--color-bg);
@@ -235,7 +235,7 @@ main {
   pointer-events: none;
   border-radius: 50%;
   opacity: 0.4;
-  background: red;
+  background: white;
   animation: loaderAnim 0.7s linear infinite alternate forwards;
 }
 
@@ -342,7 +342,7 @@ a:focus {
 .column__img {
   width: 100%;
   display: block;
-  opacity: 0.4;
+  opacity: 0.6;
   background-size: cover;
   background-position: 50% 50%;
   height: 25vw;
@@ -422,10 +422,10 @@ a:focus {
 
 
 .item__content1{
-  background-color: #6931e2;
+  background-color: #3f0bb1;
 }
 .item__content2{
-  background-color: #249ac5;
+  background-color: #06516d;
 }
 .item__content3{
   background-color: #0d7e21;
