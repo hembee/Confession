@@ -456,11 +456,12 @@ a:focus {
 
 .item__content-text::after {
   content: "";
-  width: 2rem;
-  height: 2px;
+  width: 3rem;
+  height: 3px;
   position: absolute;
   background: currentColor;
   top: calc(100% + 3rem);
+  right: 45%;
 }
 
 .item__content-back {
