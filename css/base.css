@@ -466,7 +466,8 @@ a:focus {
   cursor: pointer;
   margin-bottom: 20px;
   font-weight: 700;
-  color: aliceblue;
+  font-size: 20px;
+  color: #f0f0f0;
   position: fixed;
   left: 5px;
 }
